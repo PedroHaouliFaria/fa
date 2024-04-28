@@ -5,7 +5,8 @@
 Link de download Draw.io: (https://drive.google.com/file/d/102zAVxQk8o2ngtVtC0O1nLK2QVSfj-hH/view?usp=sharing) 
 
 # Template Readme para Arquitetura MVC em Markdown
-- Nome do Projeto: [Insira o nome do seu projeto]
+- Nome da equipe: [Phoenix Learning Solutions]
+- Nome do Projeto: [Ainda indefinido]
 - Descrição: [Uma plataforma de apoio para os jogadores do Business Game fornecido pelo CESIM no estilo aplicação Web, visando proporcionar uma melhor sintonia entre os membros do jogo, facilitando a compreensão das necessidades e diferenças culturais e pessoais uns dos outros.]
 - Arquitetura: MVC (Model-View-Controller)
 - Ferramenta de Diagramação: [draw.io]
